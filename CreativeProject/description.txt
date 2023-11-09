@@ -1,0 +1,1 @@
+My project uses the Neopixel ring. In Processing I created a slider that outputs a number 0-16 depending on where the slider is, 0 is on the left and 16 is on the right. This number is sent to Arduino where the value is used to determine how many pixels to light up on the pixel ring. In this way the slider's value is visualized on the pixel ring.
